@@ -4,7 +4,7 @@
 This Application is the Prework done for the Android Course. IN this application I have also added the bonus features mentioned below.
 
 ### App Walk-though
-<img src="http://recordit.co/1B3p6OmN8L" width=200><br>
+<img src="recordit.co/1B3p6OmN8L" width=200><br>
 
 
 
