@@ -4,8 +4,6 @@
 This Application is the Prework done for the Android Course. IN this application I have also added the bonus features mentioned below.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
 <img src="http://recordit.co/1B3p6OmN8L" width=200><br>
 
 
