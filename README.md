@@ -4,7 +4,7 @@
 This Application is the Prework done for the Android Course. IN this application I have also added the bonus features mentioned below.
 
 ### App Walk-though
-<img src="https://imgur.com/8PMwpAI" width=200><br>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/vdxxAYn"><a href="//imgur.com/vdxxAYn"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 
